@@ -1,3 +1,7 @@
+# MOVED
+
+To the npm-package monorepo https://github.com/valu-digital/npm-packages
+
 # babel-gql
 
 Persisted GraphQL Query Compiler / Generator for Babel and Webpack and a tiny
